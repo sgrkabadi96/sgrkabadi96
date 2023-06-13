@@ -69,6 +69,9 @@
   <a href="sgrkabadi96@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href="https://leetcode.com/wolf_sk/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+</a>
 </p>
 
 <p align="center">Feel free to explore my repositories below and reach out if you have any questions, collaboration opportunities, or just want to say hi! I'm open to new projects and exciting challenges.</p>
