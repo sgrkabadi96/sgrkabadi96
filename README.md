@@ -48,7 +48,7 @@
 <p align="center">Apart from my technical skills, I'm also interested in:</p>
 
 <p align="center">
-  Open source projects and collaboration<br>
+ 
   Continuous learning and staying updated with the latest technologies<br>
   Contributing to the developer community<br>
   Building user-friendly and responsive web applications
