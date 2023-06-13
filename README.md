@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://your-profile-image-url" alt="Your Name" width="200" height="200">
-</p>
 
-<h1 align="center">Hello, I'm [Your Name] 👋</h1>
+
+<h1 align="center">Hello, I'm Sagar Kabadi 👋</h1>
 
 <p align="center">Welcome to my GitHub profile! I'm a software developer with expertise in C/C++, Node.js, React, Tailwind CSS, MongoDB, Express, MySQL, and other computer core subjects. I'm passionate about building efficient and scalable applications that deliver a great user experience.</p>
 
