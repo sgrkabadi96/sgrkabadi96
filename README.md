@@ -38,9 +38,9 @@
   <a href="https://www.linkedin.com/in/sagar-kabadi-7351831b0/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://drive.google.com/file/d/1YEEDwKVmuhARxA3Az1rTzrSVRXanh6go/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/-Portfolio-1f425f.svg?style=for-the-badge">
-  </a>
+ <a href="https://drive.google.com/file/d/1YEEDwKVmuhARxA3Az1rTzrSVRXanh6go/view?usp=drive_link">
+  <img src="https://img.shields.io/badge/-Resume-1f425f.svg?style=for-the-badge">
+</a>
   <a href="sgrkabadi96@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
