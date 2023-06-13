@@ -32,16 +32,16 @@
 <h2 align="center">📫 Let's Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/YourGitHubUsername">
+  <a href="https://github.com/sgrkabadi96">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/yourlinkedinprofile">
+  <a href="https://www.linkedin.com/in/sagar-kabadi-7351831b0/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://yourportfoliosite.com">
+  <a href="https://drive.google.com/file/d/1YEEDwKVmuhARxA3Az1rTzrSVRXanh6go/view?usp=drive_link">
     <img src="https://img.shields.io/badge/-Portfolio-1f425f.svg?style=for-the-badge">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="sgrkabadi96@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
